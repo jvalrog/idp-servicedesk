@@ -1,6 +1,3 @@
-# ManageEngine ServiceDesk Plus
-
-
 # Índice
 
 1. [Introducción](#introducción)
