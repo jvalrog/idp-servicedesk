@@ -1,5 +1,4 @@
-ManageEngine ServiceDesk Plus
-#############################
+# ManageEngine ServiceDesk Plus
 
 ServiceDesk es un software web para **help desk** de tecnologías de la
 información con administración integrada de activos y proyectos.
@@ -39,8 +38,7 @@ El precio no está disponible, hay que solicitarlo por correo.
 
 
 
-Instalación
-###########
+# Instalación
 
 ServiceDesk Plus se encuentra disponible en las siguientes plataformas:
 
@@ -73,9 +71,7 @@ hemos mantenido la configuración por defecto).
 
 
 
-Uso del software
-################
-
+# Uso del software
 
 ## Primer uso
 
@@ -146,8 +142,7 @@ finalizada la gestión de la incidencia.
 
 
 
-Conclusiones
-############
+# Conclusiones
 
 * Lo que hemos vista hasta aquí es el uso tradicional que se le da a una herramienta como esta.
 
