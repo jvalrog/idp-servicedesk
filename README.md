@@ -1,5 +1,20 @@
 # ManageEngine ServiceDesk Plus
 
+
+# Índice
+
+1. [Introducción](#Introducción)
+2. [Instalación](#Instalación)
+3. [Uso del software](#Uso del software)
+	3.1 [Primer uso](#Primer uso)
+	3.2 [Añadir usuarios](#Añadir usuarios)
+	3.3 [Creación de incidencias](#Creación de incidencias)
+	3.4 [Gestión de incidencias](#Gestión de incidencias)
+4. [Conclusiones](#Conclusiones)
+
+
+# Introducción
+
 **ServiceDesk Plus** es un software web para **help desk** de tecnologías de la
 información con administración integrada de activos y proyectos.
 
@@ -108,15 +123,15 @@ Como usuario **Solicitante** podemos acceder al portal con nuestro usuario y con
 
 Una vez ahí veremos una serie de opciones:
 
-* Tengo un problema
+* *"Tengo un problema"*
 	
 	Para solicitar ayuda de un técnico.
 
-* Necesito algo nuevo
+* *"Necesito algo nuevo"*
 	
 	Para solicitar un servicio que no exista previamente. Una especie de buzón de sugerencias.
 
-* Busco una solución
+* *"Busco una solución"*
 	
 	Para buscar en las soluciones ya resueltas. Siempre deberíamos buscar aquí una solución
 	antes de requerir la ayuda de un técnico.
