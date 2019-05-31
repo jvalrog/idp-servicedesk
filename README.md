@@ -6,10 +6,12 @@
 1. [Introducción](#introducción)
 2. [Instalación](#instalación)
 3. [Uso del software](#uso-del-software)
+
    3.1. [Primer uso](#primer-uso)
    3.2. [Añadir usuarios](#añadir-usuarios)
    3.3. [Creación de incidencias](#creación-de-incidencias)
    3.4. [Gestión de incidencias](#gestión-de-incidencias)
+
 4. [Conclusiones](#conclusiones)
 
 
