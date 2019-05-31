@@ -109,12 +109,15 @@ Como usuario **Solicitante** podemos acceder al portal con nuestro usuario y con
 Una vez ahí veremos una serie de opciones:
 
 * Tengo un problema
+	
 	Para solicitar ayuda de un técnico.
 
 * Necesito algo nuevo
+	
 	Para solicitar un servicio que no exista previamente. Una especie de buzón de sugerencias.
 
 * Busco una solución
+	
 	Para buscar en las soluciones ya resueltas. Siempre deberíamos buscar aquí una solución
 	antes de requerir la ayuda de un técnico.
 
