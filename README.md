@@ -1,6 +1,6 @@
 # ManageEngine ServiceDesk Plus
 
-ServiceDesk es un software web para **help desk** de tecnologías de la
+**ServiceDesk Plus** es un software web para **help desk** de tecnologías de la
 información con administración integrada de activos y proyectos.
 
 Es utilizado por más de 120.000 empresas y está disponible en 29 idiomas diferentes.
@@ -30,7 +30,7 @@ Dispone de 3 versiones:
 	- Gestión de cambios
 	- CMDB
 
-La versión Estandar está disponible completa con un periodo de prueba que permite
+La versión *Estandar* está disponible completa con un periodo de prueba que permite
 hasta 2 técnicos o en versión gratuita sin algunos complementos por un tiempo
 ilimitado en la que sólo puede participar el **Administrador** como técnico.
 
@@ -40,7 +40,7 @@ El precio no está disponible, hay que solicitarlo por correo.
 
 # Instalación
 
-ServiceDesk Plus se encuentra disponible en las siguientes plataformas:
+**ServiceDesk Plus** se encuentra disponible en las siguientes plataformas:
 
 * Windows (32/64bits)
 * Linux (32/64bits)
@@ -49,7 +49,7 @@ El instalador lo podremos encontrar en este enlace: https://www.manageengine.es/
 
 En el caso de Linux, debemos dar permisos de ejecución al instalador para poder ejecutarlo:
 
-```
+```bash
 $ chmod +x ManageEngine_ServiceDesk_Plus_64bit.bin
 
 $ ./ManageEngine_ServiceDesk_Plus_64bit.bin
@@ -79,14 +79,14 @@ Una vez accedemos, debemos entrar como **Administrador**, que tendrá configurad
 por defecto por ser la primera vez que accedemos.
 
 Un mensaje nos indicará que debemos cambiar la contraseña tanto de **Administrador** como del
-usuario **Invitado**. Las credenciales por defecto son: **administrator/administrator**.
+usuario **Invitado**. Las credenciales por defecto son: **Administrator/administrator**.
 
 ![reset](images/reset.png)
 
 
 ## Añadir usuarios
 
-Podemos añadir nuevos usuarios llendo a la pestaña **Admin** y luego **Usuarios**.
+Podemos añadir nuevos usuarios llendo a la pestaña **Admin** y luego a la opción **Usuarios**.
 
 Ahí veremos que hay 2 tipos de usuarios:
 
@@ -94,6 +94,8 @@ Ahí veremos que hay 2 tipos de usuarios:
 * Técnicos
 
 Por defecto, ya existe un usuario solicitante invitado con las credenciales: **Guest/guest**.
+
+A la hora de crear un usuario, elegimos el tipo de usuario y rellenamos los campos necesarios.
 
 En el apartado de **Técnicos** vienen definidos varios técnicos de ejemplo:
 
@@ -105,6 +107,18 @@ En el apartado de **Técnicos** vienen definidos varios técnicos de ejemplo:
 Como usuario **Solicitante** podemos acceder al portal con nuestro usuario y contraseña.
 
 Una vez ahí veremos una serie de opciones:
+
+* Tengo un problema
+	Para solicitar ayuda de un técnico.
+
+* Necesito algo nuevo
+	Para solicitar un servicio que no exista previamente. Una especie de buzón de sugerencias.
+
+* Busco una solución
+	Para buscar en las soluciones ya resueltas. Siempre deberíamos buscar aquí una solución
+	antes de requerir la ayuda de un técnico.
+
+A continuación veremos el caso principal, **Tengo un problema**:
 
 ![solicitante](images/solicitante.png)
 
@@ -118,7 +132,7 @@ de adjuntar archivos de todo tipo.
 
 ## Gestión de incidencias
 
-Accediendo con un usuario técnico, en este caso el **Administrador**, podemos ver las incidencias
+Accediendo con un usuario **Técnico**, en este caso el **Administrador**, podemos ver las incidencias
 abiertas en la pestaña *"Solicitudes"*.
 
 ![gestion](images/gestion.png)
@@ -132,8 +146,8 @@ dicho área.
 
 Para resolverla vamos a la pestaña *"Resolución"* y escribimos nuestra solución para el usuario.
 
-En caso de que existiera ya una solución anterior similiar, podriamos hacer click en ella para evitar
-volver a crearla.
+También tenemos la posibilidad de seleccionar una resolución ya existente y enviarla al usuario
+para ahorrarnos trabajo.
 
 ![solucion](images/solucion.png)
 
@@ -152,4 +166,5 @@ finalizada la gestión de la incidencia.
 
 * La instalación es muy rápida y libre de problemas.
 
-* Como punto negativo está el que sea un software de pago.
+* Como punto negativo cabe destacar que es un software de pago y que la versión gratuita se queda
+	un poco limitada.
